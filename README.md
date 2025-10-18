@@ -75,6 +75,21 @@ The behavioral trends align with market psychology — fear promotes discipline,
 
 ---
 
+## Power BI Dashboard Overview
+
+This Power BI dashboard visualizes the relationship between **trader activity** and **market sentiment** (Fear & Greed Index) from 2023–2025.  
+It includes metrics like total trades, PnL, and sentiment-based performance.
+
+---
+
+<p align="center">
+  <img src="images/dashboard_overview.png.png" alt="Trading Behavior vs Market Sentiment Dashboard" width="850">
+</p>
+
+> The dashboard highlights that **trading activity peaks during Greed phases**, while **PnL efficiency improves under Fear**, suggesting disciplined trading behavior during cautious market sentiment.
+
+---
+
 ## Deep Dive
 <details>
 <summary><strong>1. Volume and Sentiment Correlation</strong></summary>
